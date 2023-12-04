@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Fibonacci\Barisan Fibonacci.dp
+Name=Barisan Fibonacci
+MainUnit=D:\Fibonacci\Barisan_Fibonacci.pas
+UnitCount=1
+ResFiles=D:\Fibonacci\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Fibonacci\Barisan_Fibonacci.pas
+FileTime=1466846308

@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\Indeks_Nilai\Indeks Nilai.dp
+Name=Indeks Nilai
+MainUnit=D:\Indeks_Nilai\IndeksNilai.pas
+UnitCount=1
+ResFiles=D:\Indeks_Nilai\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\Indeks_Nilai\IndeksNilai.pas
+FileTime=1466385516
