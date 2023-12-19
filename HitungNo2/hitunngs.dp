@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\HitungNo2\hitunngs.dp
+Name=hitunngs
+MainUnit=D:\HitungNo2\HitungNo2.pas
+UnitCount=1
+ResFiles=D:\HitungNo2\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\HitungNo2\HitungNo2.pas
+FileTime=1468811329

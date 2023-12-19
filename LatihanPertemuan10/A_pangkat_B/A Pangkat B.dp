@@ -1,0 +1,12 @@
+[Project]
+FileName=D:\LatihanPertemuan10\A_pangkat_B\A Pangkat B.dp
+Name=A Pangkat B
+MainUnit=D:\LatihanPertemuan10\A_pangkat_B\A_pangkat_B.pas
+UnitCount=1
+ResFiles=D:\LatihanPertemuan10\A_pangkat_B\rsrc.rc
+NoConsole=0
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+[Unit1]
+FileName=D:\LatihanPertemuan10\A_pangkat_B\A_pangkat_B.pas
+FileTime=1469274831
